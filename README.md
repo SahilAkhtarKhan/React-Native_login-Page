@@ -27,6 +27,6 @@ The return value indicates the current user preferred color scheme. The value ma
 ![image](https://github.com/SahilAkhtarKhan/React-Native_login-Page/assets/99025474/a10f103f-250a-4ca2-b063-d41ee0263931)
 
 ## Technologies Used
-React Native
-React Native Elements
-useColorScheme hook
+- React Native
+- React Native Elements
+- useColorScheme hook
